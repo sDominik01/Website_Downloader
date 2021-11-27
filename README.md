@@ -1,5 +1,5 @@
 # Website_Downloader
-#Ez az alkalmazás még nem üzemel.
+# Ez az alkalmazás még nem üzemel.
 
 Website letöltése
 
