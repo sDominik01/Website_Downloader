@@ -9,6 +9,6 @@ Használatához le kell tőlteni pár dolgot.
  - pip install ctypes
 
 
-#Tennivalók: 
+# Tennivalók: 
 1. További opciók létrehozása (pl.: képek listázása)
 2. Ne csak listáza a fájlokat de töltse is le azokat a megadott helyre.
